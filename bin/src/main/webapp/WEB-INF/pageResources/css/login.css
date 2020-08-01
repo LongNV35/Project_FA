@@ -1,0 +1,176 @@
+/* .error {
+    color: red;
+    display: inline-block !important;
+} */
+
+.errorTxt{
+  border: 1px solid red;
+  min-height: 20px;
+}​
+
+.content-right h3 {
+    margin: 30px;
+}
+
+.form-login {
+    width: 30%;
+}
+
+.form-login label {
+    margin-top: 37px;
+    font-weight: bold;
+}
+
+.form-login input {
+    margin-top: 30px;
+    width: 95%;
+}
+
+.form-login button {
+    margin-top: 20px;
+    width: 60%;
+}
+
+.form-login .btn-login {
+    margin-left: 70%;
+    background-color: lightgray;
+}
+
+.form-login .btn-reset {
+    margin-left: 20%;
+    background-color: lightgray;
+}
+
+.content-fixed {
+    border: 1px solid black;
+    margin: 35px;
+    margin-left: 10%;
+    padding: 20px;
+    background-color: blanchedalmond;
+}
+
+.navbar {
+    background-color: midnightblue;
+    
+}
+.navbar h4 {
+    color: white;margin-left: 5%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container-fluid {
+    background-color: midnightblue;
+    height: 70px;
+    width: 100%;
+}
+
+
+/* .container-fluid a:hover {
+    color: rgb(187, 70, 15);
+} */
+
+.view-banner {
+    height: 100%;
+    background-color: mediumblue;
+}
+
+.container-fluid .view-banner img {
+    height: 100%;
+}
+
+.down-row {
+    display: inline-block;
+}
+
+.view-banner a {
+    color: black;
+    font-weight: bold;
+}
+
+.hidden-a {
+    display: none;
+}
+
+
+/* ------------------------------------------------------------ */
+
+.row-content {
+    border-top: none;
+}
+
+.content-left {
+    background-color: lightgray;
+}
+
+.content-left i {
+    font-size: x-large;
+    margin-top: 40px;
+    float: right;
+    color: black;
+}
+
+.content-left li {
+    font-size: large;
+    margin-top: 20px;
+}
+
+.content-left li a {
+    color: black;
+}
+
+
+/* ------------------------------------------------------------ */
+
+.content-right {
+    background-color: white;
+    /* height: 820px; */
+    min-height: 830px;
+    max-height: 1500px;
+
+}
+
+
+/* ------------------------------------------------------------ */
+
+.footer {
+    background-color:lightgray;
+    padding: 24px;
+    width: 100%;
+    margin: 0 auto;
+    border: 1px solid darkgrey;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+
+.footer .a1 {
+    margin-left: 22%;
+    color: black;
+}
+
+.footer .a2 {
+    margin-left: 8%;
+    color: black;
+}
+
+.error{
+    border-width:1px;
+    color: red;
+    margin-top: 2px;
+}
+
+/* Top Navigation */
+
+.top-nav>li>a {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 20px;
+    color: #fff;
+}
